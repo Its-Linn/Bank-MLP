@@ -1,4 +1,4 @@
-# Nama Proyek
+# Multi Layer Perceptron
 
 Simple MultiLayerPerceptron menggunakan Data Bank
 
