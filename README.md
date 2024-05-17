@@ -10,7 +10,7 @@ Simple MultiLayerPerceptron menggunakan Data Bank
 
 ## Instalasi
 
-Langkah-langkah untuk menginstal dan mengatur proyek ini di komputer lokal Anda.
+Langkah-langkah Instalasi:
 
 1. Clone repositori ini:
     ```bash
