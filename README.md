@@ -14,7 +14,7 @@ Langkah-langkah Instalasi:
 
 1. Clone repositori ini:
     ```bash
-    git clone https://github.com/Its-Linn/MultiLayerPerceptron.git
+    git clone https://github.com/Its-Linn/Bank-MLP.git
     ```
 2. Masuk ke direktori proyek:
     ```bash
@@ -38,7 +38,7 @@ Untuk Google Collab
 Terdiri dari File IPYNB MultiLayerPerceptron dan dataset Bank
 
 ```plaintext
-MultiLayerPerceptron/
+Bank-MLP/
 ├── MLP.ipynb
 ├── bank-full.csv
 ├── README.md
